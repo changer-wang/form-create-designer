@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xaboy/form-create-designer.git"
+        "url": "git+https://github.com/changer-wang/form-create-designer.git"
     },
     "publishConfig": {
         "access": "public"
@@ -97,5 +97,6 @@
         "element-plus": "^2.8.4",
         "vant": "^4.9.7",
         "vuedraggable": "4.1.0"
-    }
+    },
+    "gitHead": "6b610e07c32759d7da2b5cc211156d84dca9b257"
 }
